@@ -5,7 +5,8 @@ const fs=require('fs');
 const http=require('http');
 const Server=http.createServer((req,res)=>{
     // res.writeHead(200,{'Content-Type':'text/html'});
-    // res.end("Response is closed");
+    // res.end("Response is closed");wq
+    
     const finalprice=0;
     const parsedUrl=url.parse(req.url,true);
     const {name,email}=parsedUrl.query;
