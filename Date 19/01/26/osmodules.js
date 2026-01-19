@@ -21,7 +21,8 @@ const fs=require('fs');
 const log=`
 Time:${timeStamp}
 free Memory: ${freememory}
-uptime:${uptime}`
+uptime:${uptime}
+userinfo:${userinfo.username}`
 
 
 setInterval(() => {
