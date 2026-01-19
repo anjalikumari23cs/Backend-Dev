@@ -1,0 +1,99 @@
+
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 0.8017501831054688
+Time:function timeStamp() { [native code] }
+free Memory: 1.1052818298339844
+uptime:1.1226169444444445
+Time:function timeStamp() { [native code] }
+free Memory: 1.1052818298339844
+uptime:1.1226169444444445
+Time:function timeStamp() { [native code] }
+free Memory: 1.1052818298339844
+uptime:1.1226169444444445
+Time:function timeStamp() { [native code] }
+free Memory: 1.1052818298339844
+uptime:1.1226169444444445
