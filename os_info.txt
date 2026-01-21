@@ -1,0 +1,53 @@
+
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
+Time:function timeStamp() { [native code] }
+free Memory: 0.9056015014648438
+uptime:1.1615625
+userinfo:anjal
