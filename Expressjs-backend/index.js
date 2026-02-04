@@ -41,6 +41,40 @@ app.post("/students", (req, res) => {
     });
 });
 
+app.put("/students/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const data = req.body;
+    const student = students.find(s => s.id === id);
+
+    if (!student) {
+        return res.status(404).send("Student not found");
+    }
+
+    const updatedStudent = {
+        ...student,
+        ...data
+    };
+    const index = students.findIndex(s => s.id === id);
+    students[index] = updatedStudent;
+
+    res.json({
+        message: "Student updated successfully",
+        student: updatedStudent
+    });
+});
+
+app.delete("/students/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const index = students.findIndex(s => s.id === id);
+    if (index === -1) {
+        return res.status(404).send("Student not found");
+    }
+    students.splice(index, 1);
+    res.json({
+        message: "Student deleted successfully"
+    });
+});
+
 app.get("/students/search",(req,res)=>{
     const searchQuery=req.query.search;
     console.log(searchQuery);
